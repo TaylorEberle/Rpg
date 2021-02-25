@@ -2,7 +2,9 @@
   
   v1. Made the entire game.
   
-  TO DO
-  add bigger map
-  add items
-  put in actual ending
+  TO DO:
+  
+  add bigger map,
+  add items,
+  put in actual ending,
+  fix the map glitches
