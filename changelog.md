@@ -1,6 +1,6 @@
   CHANGELOG
   
-  v1. Made the entire game.
+  v1.00 Made the entire game.
  
   v1.01 fixed the bug where you would get stuck in a spot on the map forever.
   
